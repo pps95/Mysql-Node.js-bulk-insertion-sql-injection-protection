@@ -1,0 +1,1 @@
+# Mysql-Node.js-bulk-insertion-sql-injection-protection
